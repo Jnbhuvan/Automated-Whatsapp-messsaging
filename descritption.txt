@@ -1,13 +1,1 @@
-modules to be used:
-    twilio
-    date and time modules
-
-1-twilio client setup
-2-user inputs
-3-scheduling logic
-4-send message
-
-14155238886
-
-
-+14155238886
+This is simple python program which uses Twilio sandbox to send Automated whatsapp messages to the respected phone numbers entered by the users.
